@@ -27,13 +27,13 @@ Install the Required Packages
 
 Run the following commands to install Three.js, Vite, and dat.gui:
 ```
- git clone: npm install three
+ npm install three
  ```
  ```
- git clone: npm install vite
+ npm install vite
 ```
 ```
- git clone: npm install dat.gui
+ npm install dat.gui
 ```
 ## Running the Project
 After installing the dependencies, you can start the project using Vite.
@@ -42,7 +42,7 @@ After installing the dependencies, you can start the project using Vite.
 
 Run the following command:
 ```
-git clone: npx vite
+ npx vite
 ```
 This command starts the development server.
 
