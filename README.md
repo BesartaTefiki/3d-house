@@ -26,25 +26,30 @@ Replace path/to/your/project with the actual path to your project folder.
 Install the Required Packages
 
 Run the following commands to install Three.js, Vite, and dat.gui:
-  `npm install three
- 
-  `npm install vite
-
-  `npm install dat.gui
-
+```
+ git clone: npm install three
+ ```
+ ```
+ git clone: npm install vite
+```
+```
+ git clone: npm install dat.gui
+```
 ## Running the Project
 After installing the dependencies, you can start the project using Vite.
 
 ## Start the Development Server
 
 Run the following command:
-`npx vite
+```
+git clone: npx vite
+```
 This command starts the development server.
 
 ## Accessing the Project
 Upon successfully starting the server, a localhost URL with a port will be displayed in the console. Copy this URL and paste it into your web browser to view the project.
 
 ### Built With
-Three.js - A cross-browser JavaScript library and Application Programming Interface used to create and display animated 3D computer graphics in a web browser.
-Vite - A modern frontend build tool that provides a faster and leaner development experience.
-dat.GUI - A lightweight graphical user interface for changing variables in JavaScript.
+- Three.js - A cross-browser JavaScript library and Application Programming Interface used to create and display animated 3D computer graphics in a web browser.
+- Vite - A modern frontend build tool that provides a faster and leaner development experience.
+- dat.GUI - A lightweight graphical user interface for changing variables in JavaScript.
